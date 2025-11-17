@@ -45,7 +45,7 @@ Included charts for revenue trends, customer groups, product categories, and beh
 Documented insights and recommendations in a structured report
 Created a professional presentation using Gamma to summarize the analysis
 
-**Results*
+**Results**
 Identified important factors driving customer purchases
 Highlighted high-value customer segments and top-performing products
 Analyzed the impact of discounts, subscriptions, and shipping types

@@ -1,26 +1,19 @@
-Customer Shopping Behavior Analysis
-Overview
-
+**Customer Shopping Behavior Analysis**
+**Overview:**
 This project focuses on analyzing customer shopping behavior using an end-to-end data analysis workflow. It includes loading and exploring the dataset in Python, performing data cleaning, running SQL queries in PostgreSQL/MySQL/SQL Server, and creating an interactive Power BI dashboard. The final deliverables include a structured analytical report and a presentation built using Gamma.
 
-Dataset
-
+**Dataset:**
 The dataset contains customer demographic details, purchase information, shopping behavior, and product attributes.
 Key fields include age, gender, location, item purchased, category, purchase amount, discount usage, review ratings, shipping type, and subscription status.
 
-Tools and Technologies
-
+**Tools and Technologies:**
 Python (pandas, numpy, matplotlib)
-
 SQL (PostgreSQL / MySQL / SQL Server)
-
 Power BI
-
 Jupyter Notebook
-
 Gamma (for presentation)
 
-Project Steps
+**Project Steps**
 1. Data Loading
 
 Imported the dataset in Python using pandas
@@ -81,7 +74,7 @@ Analyzed the impact of discounts, subscriptions, and shipping types
 
 Provided actionable recommendations for improving retention and sales strategies
 
-How to Run
+**How to Run**
 
 Clone the repository to your local machine
 
